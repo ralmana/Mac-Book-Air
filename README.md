@@ -5,7 +5,7 @@ An *Intel Core 2 Duo processor* was installed in the *MacBook Air 2008*. Dependi
 
 *MacBook Air 2008 Model*
 
-The standard model of the *MacBook Air 2008* had an *80 GB 1.8-inch PATA hard drive*, while a *64 GB solid-state drive (SSD)* was an option for the more costly variant. It included *2 GB* of onboard *DDR2 SDRAM operating at 667 MHz.* Sadly, there was no way to upgrade the RAM. ***Intel GMA X3100*** integrated graphics were used in the MacBook Air 2008. It lacked a dedicated video memory and instead shared memory with the system. The *13.3-inch glossy widescreen display with LED backlighting* and *1280 x 800 pixel resolution* was a feature of the *MacBook Air 2008*.  It contained one USB 2.0 port, a headphone jack, and a Micro-DVI port. It also included Bluetooth 2.1 and Wi-Fi (802.11n) integrated in.
+> The standard model of the *MacBook Air 2008* had an *80 GB 1.8-inch PATA hard drive*, while a *64 GB solid-state drive (SSD)* was an option for the more costly variant. It included *2 GB* of onboard *DDR2 SDRAM operating at 667 MHz.* Sadly, there was no way to upgrade the RAM. ***Intel GMA X3100*** integrated graphics were used in the MacBook Air 2008. It lacked a dedicated video memory and instead shared memory with the system. The *13.3-inch glossy widescreen display with LED backlighting* and *1280 x 800 pixel resolution* was a feature of the *MacBook Air 2008*.  It contained one USB 2.0 port, a headphone jack, and a Micro-DVI port. It also included Bluetooth 2.1 and Wi-Fi (802.11n) integrated in.
 *** 
 
 **MacBook Air 2008:**
@@ -33,5 +33,5 @@ The standard model of the *MacBook Air 2008* had an *80 GB 1.8-inch PATA hard dr
 
 ***
 
-# Macbook Air 2008 Keynote
+ # Macbook Air 2008 Keynote
 [![Mac BookAir 2008](https://i.ytimg.com/vi/kvfrVrh76Mk/hqdefault.jpg)](https://youtu.be/OIV6peKMj9M?si=XdLNGUZI-7olp8gD)
