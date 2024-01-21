@@ -30,4 +30,3 @@ The standard model of the *MacBook Air 2008* had an *80 GB 1.8-inch PATA hard dr
 6. **Ports**: The Thunderbolt 4 (USB-C) ports, headphone jack, and potential SD card slot are the six
 7. **Operating System:** macOS Sonoma 14.0
 8. **Wireless:** Wi-Fi 6 (802.11ax), Bluetooth 5.0.
-
