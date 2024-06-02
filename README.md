@@ -1,7 +1,7 @@
 # Mac Book Air (2008) 
 An *Intel Core 2 Duo processor* was installed in the *MacBook Air 2008*. Depending on the configuration you selected when making your purchase, the exact model changed. The speed range of the processors was *1.6 GHz* to *1.8 GHz*. 
 
-![](https://regmedia.co.uk/2008/01/15/apple_air_3.png)
+![](macbookair2008.webp)
 
 *MacBook Air 2008 Model*
 
